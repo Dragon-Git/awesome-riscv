@@ -44,7 +44,7 @@ Chips Alliance is an organization that brings together industry leaders and univ
 ## Instruction Set Simulator
 - [spike](https://github.com/riscv/riscv-isa-sim)  
 - [riscv-ovpsim](https://github.com/riscv/riscv-ovpsim)  
-- [whisper](https://github.com/westerndigitalcorporation/swerv-ISS)  
+- [whisper](https://github.com/chipsalliance/swerv-ISS)  
 - [sail-riscv](https://github.com/rems-project/sail-riscv)
 
 ## todo
